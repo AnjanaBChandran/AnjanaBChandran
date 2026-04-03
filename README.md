@@ -1,51 +1,73 @@
-# Hi, I'm Anjana B 👋
+# Hi, I'm Anjana 👋
 
-AI Product Manager | Building AI that works in the real world
+AI Product Manager building production-grade AI systems in insurance.
 
-Currently shipping a production AI system for life insurance 
-underwriting at Aditya Birla Capital — going live soon.
-
----
-
-## 🚀 Projects
-
-**TrueScale AI** — LLM token cost calculator for AI PMs
-
-Live → [truescale-ai.netlify.app](https://truescale-ai.netlify.app)
-
-**AI Underwriting Assistant** — Production AI for life insurance
-
-Document Intelligence + Summarisation + LLM pipeline for 45,000+ policies/month
-
-**HR Policy Assistant** — Policy grounded RAG without LLMs
-
-Structured answers with source level traceability. No hallucinations by design.
-
-**Personal Wardrobe Intelligence** — Vision AI with CLIP and FAISS
-
-Personalized styling recommendations based on what you actually own
-
-**Lovable Clone** — Built a Lovable style app builder from scratch
-
-Live → [lovable-clone-ashen.vercel.app](https://lovable-clone-ashen.vercel.app)
-
-**Anjana Studio** — Creative AI studio project
-
-Live → [anjana-studio-hbcv.vercel.app](https://anjana-studio-hbcv.vercel.app)
+🚀 Currently leading an AI underwriting assistant at Aditya Birla Sun Life Insurance  
+→ Processing 600+ applications/month  
+→ OCR + classification + rule engine + LLM pipeline  
+→ Live 
 
 ---
 
-## 🧠 What I work with
+## 🧠 What I Focus On
 
-LLMs · RAG Pipelines · FAISS · CLIP · LangChain · FastAPI
-Prompt Engineering · Agentic AI · Document Intelligence
-Python · TypeScript · SQL · Figma · Streamlit
+- Designing LLM systems that actually work in production  
+- Tradeoffs: cost vs latency vs accuracy  
+- RAG vs full-context architectures  
+- AI for financial services  
 
 ---
 
-## 📬 Connect
+## 🛠 Featured Projects
 
-[LinkedIn](https://www.linkedin.com/in/anjana-b777) · 
+### 🔹 Underwriting AI System
+Production AI assistant for life insurance underwriting  
+- Documents → OCR → Classification → Rules → LLM Summary  
+- Handles multi-document workflows with recursive processing  
+- Built with Azure Document Intelligence, GPT-4.1, BGE embeddings and Reranker 
 
+---
 
-*Building in public. Learning fast. Shipping real things.*
+### 🔹 TrueScale AI  
+LLM token cost calculator for AI PMs  
+👉 https://truescale-ai.netlify.app  
+
+- Helps estimate cost before deploying LLM systems  
+- Designed for real-world AI budgeting decisions  
+
+---
+
+### 🔹 HR Policy Assistant (RAG without LLM) *(coming soon)*  
+- Built using TF-IDF retrieval  
+- Zero hallucination design  
+- Demonstrates when NOT to use LLMs  
+
+---
+### 🔹 AI App Builder  
+LLM-powered tool to generate and deploy applications  
+
+👉 Live: https://lovable-clone-ashen.vercel.app  
+
+- Inspired by Lovable-style app generation  
+- Demonstrates prompt → UI → execution pipeline  
+- Explores how LLMs can automate product creation
+
+## ⚡ What Makes Me Different
+
+- I don’t just build models — I build **AI systems end-to-end**  
+- Strong bridge between **business, engineering, and AI**  
+- Focused on **real-world constraints (cost, scale, reliability)**  
+
+---
+
+## 📍 Open to Opportunities
+
+Actively exploring AI Product roles in **Bangalore**
+
+---
+
+## 🔗 Links
+
+- LinkedIn: https://linkedin.com/in/anjana-b777  
+- Live Product: https://truescale-ai.netlify.app ; https://lovable-clone-ashen.vercel.app  
+              
