@@ -36,7 +36,7 @@ LLM token cost calculator for AI PMs
 
 - Estimates cost before deploying LLM pipelines  
 - Built for real-world AI budgeting and planning  
-- Inspired by production systems like underwriting workflows  
+- Inspired by production-scale systems like underwriting workflows  
 
 ---
 
