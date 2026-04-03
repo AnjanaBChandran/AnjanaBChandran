@@ -3,7 +3,7 @@
 AI Product Manager building production-grade AI systems in insurance.
 
 🚀 Currently leading an AI underwriting assistant at Aditya Birla Sun Life Insurance  
-→ Processing 600+ applications/month  
+→ Processing 600+ applications/day 
 → OCR + classification + rule engine + LLM pipeline  
 → Live 
 
